@@ -10,7 +10,7 @@ var HomeView = Backbone.View.extend({
   className: "main-content",
 
   initialize: function() {
-    this.listenTon(this.model, "change", this.render);
+    this.listenTo(this.model, "change", this.render);
   },
 
   render: function() {

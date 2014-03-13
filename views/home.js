@@ -2,6 +2,8 @@
  * Home View
  *
  */
+ 
+'use strict'; 
 
 var HomeView = Backbone.View.extend({
 

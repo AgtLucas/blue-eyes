@@ -1,5 +1,15 @@
 {
   "name": "blue-eyes",
   "version": "0.0.0",
-  "dependencies": {}
+  "dependencies": {
+    "backbone": "~1.1.2",
+    "jquery": "~2.1.0",
+    "requirejs": "~2.1.11",
+    "marionette": "~1.6.4",
+    "underscore": "~1.6.0",
+    "lodash": "~2.4.1"
+  },
+  "resolutions": {
+    "jquery": "~2.1.0"
+  }
 }

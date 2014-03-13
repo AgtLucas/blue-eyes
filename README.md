@@ -1,4 +1,3 @@
-blue-eyes
-=========
+Blue Eyes
 
 Backbone experiments

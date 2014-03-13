@@ -14,7 +14,8 @@ var HomeView = Backbone.View.extend({
   },
 
   render: function() {
-
+    // TODO:
+    // this.$el.attr();
   }
 
 });
